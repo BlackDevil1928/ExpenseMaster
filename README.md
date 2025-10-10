@@ -1,8 +1,3 @@
- 🧩 ExpenseMuse AI – Intelligent Expense & Budget Assistant
-
-A smart expense management system that helps users track, analyze, and forecast their spending, while offering AI-driven insights and financial recommendations using the **Gemini 2.5 Flash API**.
-
-=======
 # 🧩 ExpenseMuse AI – Intelligent Expense & Budget Assistant
 
 A smart expense management system that helps users track, analyze, and forecast their spending, while offering AI-driven insights and financial recommendations using the **Gemini 2.5 Flash API**.
