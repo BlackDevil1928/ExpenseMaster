@@ -2,13 +2,13 @@
 
 A smart expense management system that helps users track, analyze, and forecast their spending, while offering AI-driven insights and financial recommendations using the **Gemini 2.5 Flash API**.
 
-🔗 Live Links
+🔗 Live Links :
 
 - 🌐 Live Demo: [ExpenseMuse AI](https://expensemuseai.vercel.app/)
 - 📞 Call the AI Assistant: Adding very soon😊
 
 
-## 🎯 Features
+## 🎯 Features :
 
 ### Core Features
 - ✅ **Expense Entry & Auto-Categorization** - Add expenses with automatic category detection
@@ -18,14 +18,14 @@ A smart expense management system that helps users track, analyze, and forecast 
 - 🤖 **AI-Powered Insights** - Get personalized recommendations from Gemini 2.5 Flash
 - 💬 **Conversational AI Assistant** - Chat with AI about your spending habits
 
-### Technology Stack
+### Technology Stack :
 - **Frontend**: React, Material-UI, Recharts
 - **Backend**: Node.js, Express
 - **Database**: Supabase
 - **AI**: Google Gemini 2.5 Flash API
 - **ML**: Simple linear regression for forecasting
 
-## 🚀 Quick Start
+## 🚀 Quick Start :
 
 ### Prerequisites
 - Node.js (v14 or higher)
