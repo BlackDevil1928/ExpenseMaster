@@ -5,7 +5,7 @@ A smart expense management system that helps users track, analyze, and forecast 
 🔗 Live Links :
 
 - 🌐 Live Demo: [ExpenseMuse AI](https://expensemuseai.vercel.app/)
-- 📞 Call the AI Assistant: Adding very soon😊
+- 📞 Call the AI Assistant: Adding very soon😅
 
 
 ## 🎯 Features :
